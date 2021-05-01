@@ -1,0 +1,140 @@
+Results on the classifier: CLASSIFIERS for the cipher: AES on mode: CBC
+
+img: t | detection: 9 | compression time: 0,489s | decompression time: 0,002s | img initial dimension: 139kb | img secure dimension: 142kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,091s | decompression time: 0,003s | img initial dimension: 33kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,117s | decompression time: 0,003s | img initial dimension: 36kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 1 | compression time: 0,407s | decompression time: 0,003s | img initial dimension: 230kb | img secure dimension: 230kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,149s | decompression time: 0,003s | img initial dimension: 50kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 1 | compression time: 0,12s | decompression time: 0,003s | img initial dimension: 42kb | img secure dimension: 41kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,124s | decompression time: 0,003s | img initial dimension: 32kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 4 | compression time: 0,476s | decompression time: 0,003s | img initial dimension: 159kb | img secure dimension: 160kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,134s | decompression time: 0,004s | img initial dimension: 46kb | img secure dimension: 160kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,543s | decompression time: 0,003s | img initial dimension: 152kb | img secure dimension: 154kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,106s | decompression time: 0,003s | img initial dimension: 45kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,116s | decompression time: 0,003s | img initial dimension: 45kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,519s | decompression time: 0,003s | img initial dimension: 109kb | img secure dimension: 112kb | img decompressed dimensions: 19kb.
+img: t | detection: 2 | compression time: 0,148s | decompression time: 0,003s | img initial dimension: 46kb | img secure dimension: 46kb | img decompressed dimensions: 19kb.
+img: t | detection: 5 | compression time: 0,146s | decompression time: 0,003s | img initial dimension: 38kb | img secure dimension: 39kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,535s | decompression time: 0,003s | img initial dimension: 125kb | img secure dimension: 127kb | img decompressed dimensions: 19kb.
+img: t | detection: 2 | compression time: 0,471s | decompression time: 0,002s | img initial dimension: 190kb | img secure dimension: 190kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,271s | decompression time: 0,003s | img initial dimension: 181kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 11 | compression time: 0,656s | decompression time: 0,002s | img initial dimension: 135kb | img secure dimension: 142kb | img decompressed dimensions: 19kb.
+img: t | detection: 3 | compression time: 0,105s | decompression time: 0,003s | img initial dimension: 34kb | img secure dimension: 34kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,419s | decompression time: 0,003s | img initial dimension: 116kb | img secure dimension: 119kb | img decompressed dimensions: 19kb.
+img: t | detection: 8 | compression time: 0,524s | decompression time: 0,003s | img initial dimension: 158kb | img secure dimension: 162kb | img decompressed dimensions: 19kb.
+img: t | detection: 8 | compression time: 0,506s | decompression time: 0,002s | img initial dimension: 175kb | img secure dimension: 179kb | img decompressed dimensions: 19kb.
+img: t | detection: 4 | compression time: 0,146s | decompression time: 0,003s | img initial dimension: 35kb | img secure dimension: 38kb | img decompressed dimensions: 19kb.
+img: t | detection: 3 | compression time: 0,447s | decompression time: 0,003s | img initial dimension: 176kb | img secure dimension: 177kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,413s | decompression time: 0,003s | img initial dimension: 197kb | img secure dimension: 199kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,104s | decompression time: 0,003s | img initial dimension: 53kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,573s | decompression time: 0,003s | img initial dimension: 180kb | img secure dimension: 183kb | img decompressed dimensions: 19kb.
+img: t | detection: 11 | compression time: 0,597s | decompression time: 0,003s | img initial dimension: 159kb | img secure dimension: 164kb | img decompressed dimensions: 19kb.
+
+average compression time: 0,326s | average decompression time: 0,003s | average initial dimension: 107,448kb | average secure dimension: 96,483kb.
+
+
+Results on the classifier: CLASSIFIERS for the cipher: AES on mode: CFB
+
+img: t | detection: 9 | compression time: 0,455s | decompression time: 0,003s | img initial dimension: 139kb | img secure dimension: 142kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,089s | decompression time: 0,003s | img initial dimension: 33kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,088s | decompression time: 0,003s | img initial dimension: 36kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 1 | compression time: 0,515s | decompression time: 0,003s | img initial dimension: 230kb | img secure dimension: 230kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,109s | decompression time: 0,003s | img initial dimension: 50kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 1 | compression time: 0,132s | decompression time: 0,003s | img initial dimension: 42kb | img secure dimension: 41kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,116s | decompression time: 0,003s | img initial dimension: 32kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 4 | compression time: 0,511s | decompression time: 0,003s | img initial dimension: 159kb | img secure dimension: 160kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,117s | decompression time: 0,003s | img initial dimension: 46kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,503s | decompression time: 0,003s | img initial dimension: 152kb | img secure dimension: 154kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,104s | decompression time: 0,003s | img initial dimension: 45kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,113s | decompression time: 0,003s | img initial dimension: 45kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,548s | decompression time: 0,003s | img initial dimension: 109kb | img secure dimension: 112kb | img decompressed dimensions: 19kb.
+img: t | detection: 2 | compression time: 0,153s | decompression time: 0,003s | img initial dimension: 46kb | img secure dimension: 46kb | img decompressed dimensions: 19kb.
+img: t | detection: 5 | compression time: 0,164s | decompression time: 0,003s | img initial dimension: 38kb | img secure dimension: 39kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,534s | decompression time: 0,003s | img initial dimension: 125kb | img secure dimension: 127kb | img decompressed dimensions: 19kb.
+img: t | detection: 2 | compression time: 0,418s | decompression time: 0,002s | img initial dimension: 190kb | img secure dimension: 190kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,313s | decompression time: 0,003s | img initial dimension: 181kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 11 | compression time: 0,553s | decompression time: 0,004s | img initial dimension: 135kb | img secure dimension: 142kb | img decompressed dimensions: 19kb.
+img: t | detection: 3 | compression time: 0,17s | decompression time: 0,003s | img initial dimension: 34kb | img secure dimension: 34kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,497s | decompression time: 0,003s | img initial dimension: 116kb | img secure dimension: 119kb | img decompressed dimensions: 19kb.
+img: t | detection: 8 | compression time: 0,497s | decompression time: 0,003s | img initial dimension: 158kb | img secure dimension: 162kb | img decompressed dimensions: 19kb.
+img: t | detection: 8 | compression time: 0,502s | decompression time: 0,003s | img initial dimension: 175kb | img secure dimension: 179kb | img decompressed dimensions: 19kb.
+img: t | detection: 4 | compression time: 0,132s | decompression time: 0,003s | img initial dimension: 35kb | img secure dimension: 38kb | img decompressed dimensions: 19kb.
+img: t | detection: 3 | compression time: 0,457s | decompression time: 0,003s | img initial dimension: 176kb | img secure dimension: 177kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,386s | decompression time: 0,002s | img initial dimension: 197kb | img secure dimension: 199kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,11s | decompression time: 0,003s | img initial dimension: 53kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,535s | decompression time: 0,002s | img initial dimension: 180kb | img secure dimension: 183kb | img decompressed dimensions: 19kb.
+img: t | detection: 11 | compression time: 0,555s | decompression time: 0,002s | img initial dimension: 159kb | img secure dimension: 164kb | img decompressed dimensions: 19kb.
+
+average compression time: 0,323s | average decompression time: 0,003s | average initial dimension: 107,448kb | average secure dimension: 90,966kb.
+
+
+Results on the classifier: CLASSIFIERS for the cipher: AES on mode: ECB
+
+img: t | detection: 9 | compression time: 0,425s | decompression time: 0,003s | img initial dimension: 139kb | img secure dimension: 142kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,09s | decompression time: 0,003s | img initial dimension: 33kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,114s | decompression time: 0,003s | img initial dimension: 36kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 1 | compression time: 0,45s | decompression time: 0,003s | img initial dimension: 230kb | img secure dimension: 230kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,123s | decompression time: 0,003s | img initial dimension: 50kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 1 | compression time: 0,105s | decompression time: 0,003s | img initial dimension: 42kb | img secure dimension: 41kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,111s | decompression time: 0,003s | img initial dimension: 32kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 4 | compression time: 0,458s | decompression time: 0,003s | img initial dimension: 159kb | img secure dimension: 160kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,121s | decompression time: 0,003s | img initial dimension: 46kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,514s | decompression time: 0,003s | img initial dimension: 152kb | img secure dimension: 154kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,098s | decompression time: 0,003s | img initial dimension: 45kb | img secure dimension: 154kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,114s | decompression time: 0,003s | img initial dimension: 45kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,519s | decompression time: 0,003s | img initial dimension: 109kb | img secure dimension: 112kb | img decompressed dimensions: 19kb.
+img: t | detection: 2 | compression time: 0,133s | decompression time: 0,003s | img initial dimension: 46kb | img secure dimension: 46kb | img decompressed dimensions: 19kb.
+img: t | detection: 5 | compression time: 0,162s | decompression time: 0,003s | img initial dimension: 38kb | img secure dimension: 39kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,528s | decompression time: 0,003s | img initial dimension: 125kb | img secure dimension: 127kb | img decompressed dimensions: 19kb.
+img: t | detection: 2 | compression time: 0,368s | decompression time: 0,003s | img initial dimension: 190kb | img secure dimension: 190kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,291s | decompression time: 0,003s | img initial dimension: 181kb | img secure dimension: 32kb | img decompressed dimensions: 19kb.
+img: t | detection: 11 | compression time: 0,551s | decompression time: 0,003s | img initial dimension: 135kb | img secure dimension: 142kb | img decompressed dimensions: 19kb.
+img: t | detection: 3 | compression time: 0,102s | decompression time: 0,003s | img initial dimension: 34kb | img secure dimension: 34kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,407s | decompression time: 0,003s | img initial dimension: 116kb | img secure dimension: 119kb | img decompressed dimensions: 19kb.
+img: t | detection: 8 | compression time: 0,515s | decompression time: 0,003s | img initial dimension: 158kb | img secure dimension: 162kb | img decompressed dimensions: 19kb.
+img: t | detection: 8 | compression time: 0,496s | decompression time: 0,002s | img initial dimension: 175kb | img secure dimension: 179kb | img decompressed dimensions: 19kb.
+img: t | detection: 4 | compression time: 0,133s | decompression time: 0,003s | img initial dimension: 35kb | img secure dimension: 38kb | img decompressed dimensions: 19kb.
+img: t | detection: 3 | compression time: 0,461s | decompression time: 0,003s | img initial dimension: 176kb | img secure dimension: 177kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,344s | decompression time: 0,002s | img initial dimension: 197kb | img secure dimension: 199kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,101s | decompression time: 0,003s | img initial dimension: 53kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,53s | decompression time: 0,002s | img initial dimension: 180kb | img secure dimension: 183kb | img decompressed dimensions: 19kb.
+img: t | detection: 11 | compression time: 0,54s | decompression time: 0,002s | img initial dimension: 159kb | img secure dimension: 164kb | img decompressed dimensions: 19kb.
+
+average compression time: 0,307s | average decompression time: 0,003s | average initial dimension: 107,448kb | average secure dimension: 97,379kb.
+
+
+Results on the classifier: CLASSIFIERS for the cipher: AES on mode: OFB
+
+img: t | detection: 9 | compression time: 0,433s | decompression time: 0,002s | img initial dimension: 139kb | img secure dimension: 142kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,085s | decompression time: 0,003s | img initial dimension: 33kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,1s | decompression time: 0,003s | img initial dimension: 36kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 1 | compression time: 0,405s | decompression time: 0,003s | img initial dimension: 230kb | img secure dimension: 230kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,124s | decompression time: 0,003s | img initial dimension: 50kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 1 | compression time: 0,115s | decompression time: 0,003s | img initial dimension: 42kb | img secure dimension: 41kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,106s | decompression time: 0,003s | img initial dimension: 32kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 4 | compression time: 0,453s | decompression time: 0,003s | img initial dimension: 159kb | img secure dimension: 160kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,126s | decompression time: 0,003s | img initial dimension: 46kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,53s | decompression time: 0,003s | img initial dimension: 152kb | img secure dimension: 154kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,104s | decompression time: 0,004s | img initial dimension: 45kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,11s | decompression time: 0,003s | img initial dimension: 45kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,587s | decompression time: 0,003s | img initial dimension: 109kb | img secure dimension: 112kb | img decompressed dimensions: 19kb.
+img: t | detection: 2 | compression time: 0,112s | decompression time: 0,003s | img initial dimension: 46kb | img secure dimension: 46kb | img decompressed dimensions: 19kb.
+img: t | detection: 5 | compression time: 0,166s | decompression time: 0,003s | img initial dimension: 38kb | img secure dimension: 39kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,487s | decompression time: 0,003s | img initial dimension: 125kb | img secure dimension: 127kb | img decompressed dimensions: 19kb.
+img: t | detection: 2 | compression time: 0,394s | decompression time: 0,003s | img initial dimension: 190kb | img secure dimension: 190kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,293s | decompression time: 0,003s | img initial dimension: 181kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 11 | compression time: 0,542s | decompression time: 0,003s | img initial dimension: 135kb | img secure dimension: 142kb | img decompressed dimensions: 19kb.
+img: t | detection: 3 | compression time: 0,104s | decompression time: 0,003s | img initial dimension: 34kb | img secure dimension: 34kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,42s | decompression time: 0,003s | img initial dimension: 116kb | img secure dimension: 119kb | img decompressed dimensions: 19kb.
+img: t | detection: 8 | compression time: 0,497s | decompression time: 0,002s | img initial dimension: 158kb | img secure dimension: 162kb | img decompressed dimensions: 19kb.
+img: t | detection: 8 | compression time: 0,483s | decompression time: 0,003s | img initial dimension: 175kb | img secure dimension: 179kb | img decompressed dimensions: 19kb.
+img: t | detection: 4 | compression time: 0,136s | decompression time: 0,003s | img initial dimension: 35kb | img secure dimension: 38kb | img decompressed dimensions: 19kb.
+img: t | detection: 3 | compression time: 0,448s | decompression time: 0,003s | img initial dimension: 176kb | img secure dimension: 177kb | img decompressed dimensions: 19kb.
+img: t | detection: 7 | compression time: 0,381s | decompression time: 0,003s | img initial dimension: 197kb | img secure dimension: 199kb | img decompressed dimensions: 19kb.
+img: t | detection: 0 | compression time: 0,107s | decompression time: 0,003s | img initial dimension: 53kb | img secure dimension: 0kb | img decompressed dimensions: 19kb.
+img: t | detection: 6 | compression time: 0,536s | decompression time: 0,003s | img initial dimension: 180kb | img secure dimension: 183kb | img decompressed dimensions: 19kb.
+img: t | detection: 11 | compression time: 0,557s | decompression time: 0,003s | img initial dimension: 159kb | img secure dimension: 164kb | img decompressed dimensions: 19kb.
+
+average compression time: 0,308s | average decompression time: 0,003s | average initial dimension: 107,448kb | average secure dimension: 90,966kb.
+
+
